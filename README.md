@@ -1,1 +1,1 @@
-MOdel for Image Dehaze
+Model for Dehazeing the image 
