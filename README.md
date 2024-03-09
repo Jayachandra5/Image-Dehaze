@@ -1,6 +1,6 @@
 # Attention Based CycleDehaze
 
-Attention-based Single Image Dehazing Using Improved CycleGAN, IJCN IEEE WCCI 2022. Official Pytorch based implementation.
+Attention-based Single Image Dehazing Using Improved CycleGAN. Official Pytorch based implementation.
 
 ## Model Architecture
 
@@ -82,9 +82,15 @@ project
 
 ## Usage
 
+### Run
+
+Download the model 
+Run the model by connecting to google drive ( Use Google colab )
+Upload Kaggel cerdentials JSON File
+
+
 ### Train
 
-Unzip `DCNv2_latest.zip` inside models and build the files.
 Train the model in `ITS` dataset.
 
 ```bash
