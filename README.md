@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Attention Based CycleDehaze
 
 Attention-based Single Image Dehazing Using Improved CycleGAN, IJCN IEEE WCCI 2022. Official Pytorch based implementation.
@@ -109,3 +110,6 @@ the dehazed image will be saved at `output`
 ## Acknowledgements
 
 The code for DCN module implementation in PyTorch has been taken from <a href="https://github.com/jinfagang/DCNv2_latest">DCNv2_latest</a>.
+=======
+Model for Dehazeing the image 
+>>>>>>> ff96b3f0c3da1772caf0f7e71d68d9f15b23c94d
